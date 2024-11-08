@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'grqreg': Graph the coefficients of a Quantile Regression Use grqreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _bsqregtrace.ado
+f _olsci.ado
+f _qregtrace.ado
+f _sqregtrace.ado
+f grqreg.ado
+f grqreg.hlp
